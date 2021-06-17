@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Members
 layout: template
 filename: members
 --- 
