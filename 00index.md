@@ -15,7 +15,7 @@ Key tasks of this workgroup are:
 * *Investigating* how these impacts can be *minimised* 
 * *Exploring* pathways to *sustainable* neuroimaging research
 * *Providing resources* for practitioners to calculate the environmental impacts of their research
-* *Develop* research pipelines* that have a reduced environmental impact
+* *Develop research pipelines* that have a reduced environmental impact
 
 ### Who are we?
 
