@@ -1,5 +1,5 @@
 ---
-title: About us
+title: Carbon Footprint
 layout: template
 filename: 10carbon
 --- 

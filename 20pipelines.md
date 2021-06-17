@@ -1,5 +1,5 @@
 ---
-title: About us
+title: Pipelines
 layout: template
 filename: 20pipelines
 --- 
