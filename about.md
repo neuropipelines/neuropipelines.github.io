@@ -18,3 +18,7 @@ Topics to be worked on include:
 * Develop research pipelines that have a reduced environmental impact
 * Generate reports and publications outlining sustainable neuroimaging best practise
 * Collaborate with the Education & Outreach Working Group, and the new OHBM Best Practises Committee, on raising the profile of sustainable neuroimaging best practise
+
+### Who are we?
+
+We are a workgroup under the [Sustainability and Environment Action Special Interest Group](https://ohbm-environment.org/) formed by the Organisation for Human Brain Mapping [(OHBM)](https://www.humanbrainmapping.org/) in 2020. The workgroup itself was constituted in 2021. 
