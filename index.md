@@ -20,3 +20,7 @@ Key tasks of this workgroup are:
 ### Who are we?
 
 We are a workgroup under the [Sustainability and Environment Action Special Interest Group](https://ohbm-environment.org/) formed by the Organisation for Human Brain Mapping [(OHBM)](https://www.humanbrainmapping.org/) in 2020. The workgroup itself was constituted in 2021. 
+
+### Contact us
+
+Feel free to write to us with suggestions, ideas or if you would like to join us at this <neuropipelines@gmail.com>.
