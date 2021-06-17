@@ -6,7 +6,6 @@ filename: 30members
 
 ### Workgroup Members
 
-* **Chair**: Raghavendra Selvan
 * Johanna Bayer
 * Nikhil Bhagwat 
 * Alex Clarke
@@ -17,5 +16,6 @@ filename: 30members
 * David Pagliaccio
 * Cyril Pernet 
 * Jivesh Ramduny 
+* Raghavendra Selvan (*Chair*)
 * Sebastien Tourbier
 * Young Jae Woo
