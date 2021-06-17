@@ -1,5 +1,5 @@
 ---
-title: Carbon Footprint
+title: Carbon Footprinting
 layout: template
 filename: 10carbon
 --- 
