@@ -1,7 +1,7 @@
 ---
 title: About us
 layout: template
-filename: 00index
+filename: index
 --- 
 
 ### About us
