@@ -1,5 +1,5 @@
 ---
-title: Pipelines
+title: Resources
 layout: template
 filename: 30resources
 --- 

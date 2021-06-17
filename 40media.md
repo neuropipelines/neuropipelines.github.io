@@ -1,5 +1,5 @@
 ---
-title: Pipelines
+title: Media
 layout: template
 filename: 40media 
 --- 
