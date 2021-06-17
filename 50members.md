@@ -16,6 +16,6 @@ filename: 50members
 * David Pagliaccio
 * Cyril Pernet 
 * Jivesh Ramduny 
-* Raghavendra Selvan (*Chair*)
+* [Raghavendra Selvan](raghavian.github.io/) (*Chair*)
 * Sebastien Tourbier
 * Young Jae Woo
