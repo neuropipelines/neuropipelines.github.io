@@ -6,4 +6,4 @@ filename: 40media
 
 ### Media
 
-[SIG wordcloud](media/wordcloud_SEASIG.png)
+![SIG wordcloud](media/wordcloud_SEASIG.png)
