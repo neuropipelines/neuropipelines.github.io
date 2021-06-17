@@ -4,7 +4,7 @@ layout: template
 filename: 10carbon
 --- 
 
-## Carbon Footprint Quantification
+### Carbon Footprint Quantification
 
 *Under progress...*
 
