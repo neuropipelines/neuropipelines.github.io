@@ -6,4 +6,4 @@ filename: 40media
 
 ### Media
 
-Will be updated shortly...
+[SIG wordcloud](media/wordcloud_SEASIG.png)
