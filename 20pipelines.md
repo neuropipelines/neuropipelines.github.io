@@ -1,5 +1,5 @@
 ---
-title: Pipeline Streamlining
+title: Pipelines
 layout: template
 filename: 20pipelines
 --- 
