@@ -21,7 +21,8 @@ filename: 50members
 * Young Jae Woo
 
 ## SEA-SIG Committee Members
-([link](https://ohbm-environment.org/team/))
+The Neuroimaging Research Pipelines is part of the Sustainability and Environment Action Special Interest Group with the following [committee members](https://ohbm-environment.org/team/):
+
 * Charlotte Rae (Chair)
 * Marie-Eve Hoeppli
 * Maria Misiura
