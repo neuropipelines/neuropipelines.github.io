@@ -4,6 +4,6 @@ layout: template
 filename: 30resources
 --- 
 
-### Resources
+## Resources
 
 Will be updated shortly...

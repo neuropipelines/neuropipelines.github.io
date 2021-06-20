@@ -4,7 +4,7 @@ layout: template
 filename: 50members
 --- 
 
-### Workgroup Members
+## Workgroup Members
 
 * Johanna Bayer
 * Nikhil Bhagwat 
