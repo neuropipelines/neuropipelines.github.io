@@ -23,4 +23,4 @@ We are a workgroup under the [Sustainability and Environment Action Special Inte
 
 ### Contact us
 
-Feel free to write to us with suggestions, ideas or if you would like to join us at this <neuropipelines@gmail.com>.
+Feel free to write to us with suggestions, ideas or if you would like to join us at <neuropipelines@gmail.com>.
