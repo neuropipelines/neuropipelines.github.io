@@ -19,3 +19,16 @@ filename: 50members
 * [Raghavendra Selvan](raghavian.github.io/) (*Chair*)
 * Sebastien Tourbier
 * Young Jae Woo
+
+## SEA-SIG Committee Members
+([link](https://ohbm-environment.org/team/))
+* Charlotte Rae (Chair)
+* Marie-Eve Hoeppli
+* Maria Misiura
+* Niall Duncan
+* Valentina Borghesani
+* Elvisha Dhamala
+* Daniel Margulies
+* Michele Veldsman
+* Sepideh Sadaghiani
+* Peer Herholz
