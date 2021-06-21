@@ -24,6 +24,6 @@ The workgroup itself is divided into three collaborative subgroups/teams with fo
 
 We are a workgroup under the [Sustainability and Environment Action Special Interest Group](https://ohbm-environment.org/) formed by the Organisation for Human Brain Mapping [(OHBM)](https://www.humanbrainmapping.org/) in 2020. The workgroup itself was constituted in 2021. 
 
-## Contact us
+## Join us!
 
-Feel free to write to us with suggestions, ideas or if you would like to join us at <neuropipelines@gmail.com>.
+We are actively seeking interested collaborators from across the globe. Feel free to write to us with suggestions, ideas or if you would like to join us at <neuropipelines@gmail.com>.
