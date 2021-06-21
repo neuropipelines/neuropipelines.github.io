@@ -15,6 +15,11 @@ Key tasks of this workgroup are:
 * *Providing resources* for practitioners to calculate the environmental impacts of their research
 * *Develop research pipelines* that have a reduced environmental impact
 
+The workgroup itself is divided into three collaborative subgroups/teams with focus on:
+* [Carbon footprint ](10carbon)
+* [Pipelines](20pipelines)
+* [Dissemination](40media)
+
 ## Who are we?
 
 We are a workgroup under the [Sustainability and Environment Action Special Interest Group](https://ohbm-environment.org/) formed by the Organisation for Human Brain Mapping [(OHBM)](https://www.humanbrainmapping.org/) in 2020. The workgroup itself was constituted in 2021. 
