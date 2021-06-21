@@ -15,7 +15,8 @@ In our subgroup we aim to streamline neuroimaging pipelines to promote reproduci
 * Providing pipelines and practices that focus on reducing the overall carbon footprint
 
 ---
-References:
+### References:
+
 [1] Lindquist, Martin. "Pipeline choices alter neuroimaging findings." Nature 582.7810 (2020): 36-37.
 
 [2] Altuna Akalin, 2018. Scientific Data Analysis Pipelines and Reproducibility. [Published online](https://towardsdatascience.com/scientific-data-analysis-pipelines-and-reproducibility-75ff9df5b4c5)

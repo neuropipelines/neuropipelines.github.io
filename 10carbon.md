@@ -15,6 +15,8 @@ This working group aims to:
 
 
 ***
+### References:
+
 1. Amodei D, Hernandez D, Sastry G, Clark J, Brockman G, Sutskever I. [AI and Compute](https://openai.com/blog/ai-and-compute/). Published May 16, 2018.
 2. Hao, Karen. [Training a single AI model can emit as much carbon as five cars in their lifetimes](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/). MIT Technology Review (2019).
 3. Schwartz R, Dodge J, Smith NA, Etzioni O. Green AI. arXiv [csCY]. Published online July 22, 2019. 
