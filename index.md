@@ -8,8 +8,6 @@ filename: index
 
 Neuroimaging research can involve complex and often resource-intensive pipelines to go from data acquisition to the generation of results. The purpose of this group is to better understand the environmental costs of these research pipelines and develop tools to help reduce these costs. 
 
-Our purpose is to better understand environmental costs of neuroimaging research pipelines & develop tools to help reduce these costs.
-
 Key tasks of this workgroup are:
 * *Assessing* environmental *impact* of neuroimaging research pipelines
 * *Investigating* how these impacts can be *minimised* 
