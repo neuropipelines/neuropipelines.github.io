@@ -12,7 +12,7 @@ In our subgroup we aim to streamline neuroimaging pipelines to promote reproduci
 * Encouraging sharing of data, meta data and the complete pipelines used
 * Promoting transparency of code and dependencies inherent to the pipelines
 * Facilitating reproducibility of specific pipelines by promoting dockers and neuroimaging data structures like [BIDS](https://bids.neuroimaging.io/) [3]
-* Providing pipelines and practices that focus on reducing the overall carbon footprint
+* Developing pipelines and promoting practices that focus on reducing the environmental costs
 
 ---
 ### References:
