@@ -32,24 +32,21 @@ A conservative estimate of pipeline usage based on citations. The first pipeline
 
 FreeSurfer citation counts based on [Dale et al](https://pubmed.ncbi.nlm.nih.gov/9931268/) and [Fischl et al](https://pubmed.ncbi.nlm.nih.gov/9931269/) papers in Scopus. ML citation count includes only MR neuroimaging studies in Ovid MEDLINE. 
 
-<img src="./figs/carbon/citations.png" alt="Drawing" align="middle" width="500px"/> 
+<img src="./figs/carbon/citations.png" alt="Drawing" align="middle" width="750px"/> 
 
 ### Classification of compute costs 
 Several user-specific and infrastructure-specific factors contribute to the carbon footprint of neuroimaging pipelines. 
 
-<img src="./figs/carbon/compute_costs.png" alt="Drawing" align="middle" width="750px"/> 
+<img src="./figs/carbon/compute_costs.png" alt="Drawing" align="middle" width="1000px"/> 
 
 
 ### Compute costs of FreeSurfer vs FastSurfer
-
-#### Task: Volumetric brain segmentation and cortical thickness estimation with DKT parcellations (see Fig 3)
-
-#### Hardware: Proc: CPU (Intel Xeon(R) Gold 6148 @ 2.40GHz) vs. GPU (Tesla V100-SXM2-16GB CUDA:11.0)
-
-#### HPC Cluster: [Compute Canada](https://docs.computecanada.ca/wiki/Getting_started) @ Quebec, Canada (PUE ~ 1.2)
+- Task: Volumetric brain segmentation and cortical thickness estimation with DKT parcellations
+- Hardware: Proc: CPU (Intel Xeon(R) Gold 6148 @ 2.40GHz) vs. GPU (Tesla V100-SXM2-16GB CUDA:11.0)
+- HPC Cluster: [Compute Canada](https://docs.computecanada.ca/wiki/Getting_started) @ Quebec, Canada (PUE ~ 1.2)
 
 ### Image processing tasks part of FreeSurfer and FastSurfer pipelines:
-<img src="./figs/carbon/Free_Fast_surfer.png" alt="Drawing" align="middle" width="500px"/> 
+<img src="./figs/carbon/Free_Fast_Surfer.png" alt="Drawing" align="middle" width="500px"/> 
 
 
 #### Compute cost metrics
