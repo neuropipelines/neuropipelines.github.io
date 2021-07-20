@@ -6,7 +6,7 @@ filename: 10carbon
 
 ## Carbon Footprint Quantification
 
-The increasing supply of large datasets and machine-learning models has pushed the computational demand beyond Moore’s law [1,2]. The success of deep-learning models in the areas of image segmentation, classification and natural-language-processing (NLP) has enabled the development of novel applications in the field of neuroimaging towards image processing, clinical diagnosis and prognosis. So far, the research effort in this area has mainly focussed on achieving state-of-the-art task-accuracy via Monte-Carlo sampling of bigger and more complex model architectures. With the popularization of deep-learning approaches, it is important to take account of the compute costs and the consequent environmental impact of such model selection strategy [3,4]. The carbon footprint of training an AI model is estimated to be 284 Kgs of CO2 (5x lifetime emissions of a car or 300x RT-flights for single passenger between NYC and SF [2,4]. Moreover, the energy consumption of the deep-learning based and the existing neuroimaging pipelines during deployment needs to be estimated in order to minimize the carbon emissions resulting from processing of big datasets, such as UKBiobank. 
+The increasing supply of large datasets and machine-learning models has pushed the computational demand beyond Moore’s law [1,2]. The success of deep-learning models in the areas of image segmentation, classification and natural-language-processing (NLP) has enabled the development of novel applications in the field of neuroimaging towards image processing, clinical diagnosis and prognosis. So far, the research effort in this area has mainly focussed on achieving state-of-the-art task-accuracy via Monte-Carlo sampling of bigger and more complex model architectures. With the popularization of deep-learning approaches, it is important to take account of the compute costs and the consequent environmental impact of such model selection strategy [3,4]. The carbon footprint of training an AI model is estimated to be 284,000 Kgs (626,000 pounds) of CO2 (~5x lifetime emissions of a car or ~300x RT-flights for single passenger between NYC and SF [2,4]. Moreover, the energy consumption of the deep-learning based and the existing neuroimaging pipelines during deployment needs to be estimated in order to minimize the carbon emissions resulting from processing of big datasets, such as UKBiobank. 
 
 This working group aims to: 
 * Compare various carbon footprinting tools available for use in neuroimaging pipelines
@@ -65,8 +65,8 @@ Compute cost tracker: [experiment-impact-tracker](https://github.com/Breakend/ex
 ***
 
 ### TL;DR
-- FreeSurfer: Processing 10k scans would take 3471 cpu-days and produce 32 kg carbon emissions (i.e. 35 RT-flights for single passenger between NYC and SF). 
-- FastSurfer: Processing 10k scans would take 4107 cpu-days or 671 gpu-days and produce 38 kg (cpu) or 8 kg (gpu) carbon emissions (i.e. 40 (cpu) or 8.5 (gpu) RT-flights for single passenger between NYC and SF). 
+- FreeSurfer: Processing 10k scans would take 3471 cpu-days and produce 32 kg carbon emissions. 
+- FastSurfer: Processing 10k scans would take 4107 cpu-days or 671 gpu-days and produce 38 kg (cpu) or 8 kg (gpu) carbon emissions. 
 - There is an inherent trade-off between runtime and power usage. GPU saves time → consequently reduces power draws per experiment; but increases power draws per day for a machine. 
 - It’s important to consider both per experiment vs per capita (i.e. researcher / machine) costs. 
 - Model training experiments have higher compute costs compared to inference/deployment. We need to employ better model selection strategies [9] to minimize per capita costs of increasing GPU usage. 
