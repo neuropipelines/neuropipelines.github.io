@@ -56,7 +56,7 @@ Several user-specific and infrastructure-specific factors contribute to the carb
 
 #### Compute cost tracker: [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker)
 
-Note: The values in table are for processing of a single scan. A typical inference/deployment pipeline may do ~10k of these runs for a large dataset. And a model training/development pipeline may incur over 1M runs.
+Note: The values in table are for processing of a single T1w MRI scan. A typical inference/deployment pipeline may incur over 10k of these runs for a large dataset. And a model training/development pipeline may incur over 1M runs.
 
 | Pipeline (single run) | Runtime (hrs) |            | Power (W-hrs) |            | Carbon Emissions (grams) |            |
 |-----------------------|---------------|------------|---------------|------------|--------------------------|------------|
