@@ -46,7 +46,7 @@ Several user-specific and infrastructure-specific factors contribute to the carb
 - HPC Cluster: [Compute Canada](https://docs.computecanada.ca/wiki/Getting_started) @ Quebec, Canada (PUE ~ 1.2)
 
 ### Image processing tasks part of FreeSurfer and FastSurfer pipelines:
-<img src="./figs/carbon/Free_Fast_Surfer.png" alt="Drawing" align="middle" width="500px"/> 
+<img src="./figs/carbon/Free_Fast_Surfer.png" alt="Drawing" align="middle" width="750px"/> 
 
 
 #### Compute cost metrics
@@ -54,7 +54,9 @@ Several user-specific and infrastructure-specific factors contribute to the carb
 2. Power draw 		
 3. Carbon emissions
 
-Compute cost tracker: [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker)
+#### Compute cost tracker: [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker)
+
+Note: The values in table are for processing of a single T1w MRI scan. A typical inference/deployment pipeline may incur over 10k of these runs for a large dataset. And a model training/development pipeline may incur over 1M runs.
 
 | Pipeline (single run) | Runtime (hrs) |            | Power (W-hrs) |            | Carbon Emissions (grams) |            |
 |-----------------------|---------------|------------|---------------|------------|--------------------------|------------|
@@ -68,8 +70,8 @@ Compute cost tracker: [experiment-impact-tracker](https://github.com/Breakend/ex
 - FreeSurfer: Processing 10k scans would take 3471 cpu-days and produce 32 kg carbon emissions. 
 - FastSurfer: Processing 10k scans would take 4107 cpu-days or 671 gpu-days and produce 38 kg (cpu) or 8 kg (gpu) carbon emissions. 
 - There is an inherent trade-off between runtime and power usage. GPU saves time → consequently reduces power draws per experiment; but increases power draws per day for a machine. 
-- It’s important to consider both per experiment vs per capita (i.e. researcher / machine) costs. 
-- Model training experiments have higher compute costs compared to inference/deployment. We need to employ better model selection strategies [9] to minimize per capita costs of increasing GPU usage. 
+- It’s important to consider both per experiment vs per capita (i.e. researcher/machine) costs. 
+- Model training experiments have higher compute costs compared to inference/deployment. We need to employ better model selection strategies to minimize per capita costs of increasing GPU usage. 
 - There are added costs incurring from meta-analytic efforts to improve reproducibility and make science open and accessible. Nonetheless irreproducible science is not sustainable! 
 - Similar to open and reproducible science practices, we need to recalibrate our research objectives at individual and infrastructural levels to include sustainability criteria. 
 
