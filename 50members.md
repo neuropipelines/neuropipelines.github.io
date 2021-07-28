@@ -18,6 +18,9 @@ filename: 50members
 * Jivesh Ramduny 
 * [Raghavendra Selvan](raghavian.github.io/) (*Chair*)
 * Sebastien Tourbier
+* Alexandru Hanganu
+
+## Former Members
 * Young Jae Woo
 
 ## SEA-SIG Committee Members
